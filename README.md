@@ -46,8 +46,6 @@ The bike sales company seeks to understand:
 - Pivot Tables
 - Pivot Charts (Stacked Column)
 
-## 📁 File
-- `Day_3_Task_1_Bike_Sales_Pivot_Lab.xlsx`
 
 ---
 

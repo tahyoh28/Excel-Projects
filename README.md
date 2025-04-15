@@ -47,6 +47,4 @@ The bike sales company seeks to understand:
 - Pivot Charts (Stacked Column)
 
 
----
 
-> This project is part of an Excel lab exercise to build foundational data analysis skills using Pivot Tables. Great for early-stage analysts and Excel learners.
